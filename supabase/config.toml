@@ -1,0 +1,10 @@
+project_id = "uyugbuafatymxskkvmmx"
+
+[functions.nlp-query]
+verify_jwt = false
+
+[functions.analyze-file]
+verify_jwt = false
+
+[functions.ai-query]
+verify_jwt = false
